@@ -13,16 +13,16 @@ body {
     background-color: var(--body-bg-color);
 }
 
+header,
+section {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
 header {
     text-align: center;
     padding: 32px 0;
 
-    margin: 0 auto;
-}
-
-header,
-section {
-    max-width: 300px;
     margin: 0 auto;
 }
 
