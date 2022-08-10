@@ -1,8 +1,8 @@
 <h2>:computer: O PROJETO</h2>
-<p> RocketCoffee é um cardápio online.
-  Você poder vizualiza-lo aqui <a href="https://agapespagnoll.github.io/Maratona-Explorer-3.0-/">RocketCoffee.</a>
+<p> RocketCoffee é um cardápio online.</p>
 
-</p>
+<img src="https://user-images.githubusercontent.com/109369848/183985789-cb5b734b-7b67-4e12-bd52-f8678622dfbf.png">
+
 <h2> :mortar_board:TECNOLOGIAS</h2>
 <p> Foram ultilizadas as seguintes tecnologias nesse projeto:</p>
 <ol>
