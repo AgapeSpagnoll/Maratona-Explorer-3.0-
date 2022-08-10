@@ -1,4 +1,3 @@
-<h1  align="center">:construction: Projeto em Construção :construction:</h1>
 <h2>:computer: O PROJETO</h2>
 <p> RocketCoffee é um cardápio online.
   Você poder vizualiza-lo aqui <a href="https://agapespagnoll.github.io/Maratona-Explorer-3.0-/">RocketCoffee.</a>
